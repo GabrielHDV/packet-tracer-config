@@ -1,6 +1,6 @@
 [![Cisco Packet Tracer](https://img.shields.io/badge/Cisco-Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)]()
 [![Máquinas Virtuais](https://img.shields.io/badge/Máquinas%20Virtuais-VirtualBox-blue?style=for-the-badge&logo=virtualbox&logoColor=white)]()
-[![Redes](https://img.shields.io/badge/Tópico-Redes%20de%20Computadores-critical?style=for-the-badge)]()
+[![Linux](https://img.shields.io/badge/SO-Linux-yellowgreen?style=for-the-badge&logo=linux&logoColor=white)]()
 
 ---
 
